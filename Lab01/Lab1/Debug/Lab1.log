@@ -1,0 +1,4 @@
+﻿  Lab1.cpp
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab1\Lab1\Lab1.cpp(213,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab1\Lab1\Lab1.cpp(221,22): warning C4018: '<': signed/unsigned mismatch
+  Lab1.vcxproj -> C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab1\Debug\Lab1.exe

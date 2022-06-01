@@ -1,0 +1,7 @@
+Polynomial Multiplication
+
+Order   RS      PS      RK      PK
+10      5ms     9ms     6ms     20ms
+100     8ms     7ms     27ms    36ms
+1000    63ms    43ms    125ms   66ms
+5000    363ms   215ms   867ms   150ms

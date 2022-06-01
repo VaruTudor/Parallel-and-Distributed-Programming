@@ -1,0 +1,55 @@
+WITH PRINT
+graph1.in
+----------
+10-threads	- 0.185 (run 1)
+10-threads	- 0.100 (run 2)
+10-threads	- 0.161 (run 3)
+10-threads	- 0.164 (run 4)
+10-threads	- 0.177 (run 5)
+----------
+100-threads	- 1.661 (run 1)
+100-threads	- 2.220 (run 2)
+100-threads	- 2.984 (run 3)
+100-threads	- 1.485 (run 4)
+100-threads	- 0.984 (run 5)
+----------
+1000-threads	- 17.801 (run 1)
+1000-threads	- 23.818 (run 2)
+1000-threads	- 19.778 (run 3)
+----------
+graph2.in
+----------
+10-threads	- 0.306 (run 1)
+10-threads	- 0.446 (run 2)
+10-threads	- 0.308 (run 3)
+10-threads	- 0.281 (run 4)
+10-threads	- 0.293 (run 5)
+----------
+100-threads	- 3.286 (run 1)
+100-threads	- 4.668 (run 2)
+100-threads	- 4.950 (run 3)
+100-threads	- 4.775 (run 4)
+100-threads	- 3.437 (run 5)
+----------
+WITHOUT PRINT
+graph2.in
+----------
+10-threads	- 0.004 (run 1)
+10-threads	- 0.004 (run 2)
+10-threads	- 0.003 (run 3)
+10-threads	- 0.003 (run 4)
+10-threads	- 0.003 (run 5)
+----------
+100-threads	- 0.017 (run 1)
+100-threads	- 0.064 (run 2)
+100-threads	- 0.068 (run 3)
+100-threads	- 0.015 (run 4)
+100-threads	- 0.014 (run 5)
+----------
+1000-threads	- 0.099 (run 1)
+1000-threads	- 0.094 (run 2)
+1000-threads	- 0.091 (run 3)
+----------
+10000-threads	- 0.916 (run 1)
+10000-threads	- 0.787 (run 2)
+10000-threads	- 0.756 (run 3)

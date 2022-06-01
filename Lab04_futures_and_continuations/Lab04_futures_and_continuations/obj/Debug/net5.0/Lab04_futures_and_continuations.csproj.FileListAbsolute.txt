@@ -1,0 +1,17 @@
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\bin\Debug\net5.0\Lab04_futures_and_continuations.exe
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\bin\Debug\net5.0\Lab04_futures_and_continuations.dll.config
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\bin\Debug\net5.0\Lab04_futures_and_continuations.deps.json
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\bin\Debug\net5.0\Lab04_futures_and_continuations.runtimeconfig.json
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\bin\Debug\net5.0\Lab04_futures_and_continuations.runtimeconfig.dev.json
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\bin\Debug\net5.0\Lab04_futures_and_continuations.dll
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\bin\Debug\net5.0\ref\Lab04_futures_and_continuations.dll
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\bin\Debug\net5.0\Lab04_futures_and_continuations.pdb
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\Lab04_futures_and_continuations.csproj.AssemblyReference.cache
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\Lab04_futures_and_continuations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\Lab04_futures_and_continuations.AssemblyInfoInputs.cache
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\Lab04_futures_and_continuations.AssemblyInfo.cs
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\Lab04_futures_and_continuations.csproj.CoreCompileInputs.cache
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\Lab04_futures_and_continuations.dll
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\ref\Lab04_futures_and_continuations.dll
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\Lab04_futures_and_continuations.pdb
+C:\Users\Tudor\Desktop\D\faculta\SemV\PDP\Labs\Lab04_futures_and_continuations\Lab04_futures_and_continuations\obj\Debug\net5.0\Lab04_futures_and_continuations.genruntimeconfig.cache
